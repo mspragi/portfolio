@@ -1,0 +1,15 @@
+
+
+.show_profile ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.show_profile ul li a {
+       color: gray;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+
+

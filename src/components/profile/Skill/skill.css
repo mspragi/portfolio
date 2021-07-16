@@ -1,0 +1,16 @@
+.bar{
+    width: 90%;
+    background-color:rgb(236, 231, 231);
+    border-radius: 20px;
+    margin-bottom: 12px;
+
+}
+
+.bar_wrapper{
+background: rgb(5,183,219);
+background: linear-gradient(90deg, rgba(5,183,219,1) 0%, rgba(6,39,235,1) 48%, rgba(5,14,144,1) 60%, rgba(2,64,74,1) 100%);
+border-radius: 20px;
+padding: 4px 14px;
+color: white;
+
+}
